@@ -7,6 +7,9 @@
 ## Networking Fundamentals
 - [Computer Networking: A Top-Down Approach by Kurose & Ross](https://www.cs.sjtu.edu.cn/~linghe.kong/CS339/Download/ComputerNetworking.pdf)
 - [Professor Messer's CompTIA Network+ material](https://www.professormesser.com/network-plus/n10-009/n10-009-video/n10-009-training-course/)
+- [HTTP: The Definitive Guide]
+- [TCP/IP Illustrated (Stevens)]
+- [UNIX Network Programming Vol 1]
 
 ## Cryptography
 - [Serious Cryptography by Jean-Philippe Aumasson](https://www.kea.nu/files/textbooks/humblesec/seriouscrytography.pdf)
@@ -27,3 +30,5 @@
 ## General Distributed System
 - [Designing Data-Intensive Applications by Martin Kleppmann](https://github.com/aasthas2022/SDE-Interview-and-Prep-Roadmap/blob/main/System%20Design/Resources/Designing%20Data%20Intensive%20Applications%20by%20Martin%20Kleppmann.pdf)
 - [Local-First Software: You Own Your Data, in spite of the Cloud - Martin Kleppmann](https://www.inkandswitch.com/essay/local-first/)
+- [Time, Clocks, and the Ordering of Events (Lamport)](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
+- [FLP Impossibility](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
