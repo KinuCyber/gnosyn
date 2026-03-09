@@ -1,8 +1,6 @@
 # Gnosyn
 ## Overview
-An experiment in identity-bound federation over Tor onion service.
-Individuals can sign up through running "Tor Hidden Dir", using the generated hostname
-to serve their PDS anonymously
+An experiment in identity-bound federation over Tor onion service. Individuals can sign up through running "Tor Hidden Dir", using the generated hostname to serve their PDS anonymously
 
 ## Problem Statement
 Mainstream knowledge and social platforms rely on centralized, DNS identity and IP infrastructure.
